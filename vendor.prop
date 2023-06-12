@@ -18,9 +18,6 @@ ro.vendor.perf.scroll_opt=true
 # FS-verity
 ro.apk_verity.mode=2
 
-# FS-verity
-ro.apk_verity.mode=2
-
 # Radio
 ro.vendor.radio.imei.sv=12
 
