@@ -19,6 +19,9 @@ TARGET_FACE_UNLOCK_SUPPORTED := true
 TARGET_USES_BLUR := false
 TARGET_SUPPORTS_QUICK_TAP := true
 
+# Official
+DERP_BUILDTYPE := Official
+
 # Device identifier. This must come after all inclusions.
 PRODUCT_NAME := derp_rhode
 PRODUCT_DEVICE := rhode
